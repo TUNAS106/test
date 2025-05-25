@@ -124,5 +124,3 @@ def gameLoop():
     pygame.quit()
     quit()
 
-if __name__ == "__main__":
-    gameLoop()
